@@ -1,0 +1,7 @@
+{
+  "extends": "airbnb-base",
+  "globals": {
+    "Application": "readonly",
+    "delay": "readonly"
+  }
+}
